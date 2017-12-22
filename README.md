@@ -1,6 +1,17 @@
 # Design Library
 A visual interface for finding documents on Dropbox. Created as an internal tool for IDEO.org.
 
+## Project Outline & Status  
+*for more info, see User Stories below or Asana board [here](https://app.asana.com/0/509922395032554/board)*  
+
+- [ ] Model dummy data
+- [ ] Gallery of basic document components
+- [ ] Filter toggle buttons (Redux)
+- [ ] Search 
+- [ ] Recently opened documents (local storage)
+- [ ] Starred documents (local storage)
+- [ ] Event tracking
+
 ## Dev Requirements
 **Project Specifics**  
 
@@ -11,9 +22,17 @@ A visual interface for finding documents on Dropbox. Created as an internal tool
 
 **Goals and objectives**  
 
-* Create a React-based application for internal use by designers and operations staff. 
-* Iterate design and functionality based on feedback from users   
-* Use existing stack and explore possible new additions as necessary  i
+* Create a valuable internal tool that gets used daily
+* A basic project to test our internal stack and processes for collaborative work @ IDEO.org.
+* Explore tools and techniques for modern apps
+  * Lazy-loading
+  * Image optimization
+  * Interaction animation
+  * Error Boundaries (React 16)
+  * SSR (? )
+  * Accessibility
+  * Unit, Integration, and E2E testing
+  * A/B testing
 
 **Background / Strategy**  
 
@@ -48,13 +67,14 @@ Users are IDEO.org employees and are using modern browsers (Chrome, Safari, or F
 
 **Stack**  
 
-* React  
+* React (create-react-app) 
 * Redux  
 * Dropbox API
-* others TBD. Ask Matthew what he's been using if you think this hasn't been kept up-to-date.
+* Styled Components
+* Jest
 
 **Related Resources**  
-
+[Asana board](https://app.asana.com/0/509922395032554/board) (invite only)
 
 **Questions**
 
