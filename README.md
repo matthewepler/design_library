@@ -17,7 +17,7 @@ A visual interface for finding documents on Dropbox. Created as an internal tool
 
 * Target Release: 1.0  
 * Designers: Daniel Feldman, Matthew Epler  
-* Developers: Daniel Feldman, Matthew Epler  
+* Developers: Daniel Feldman, Matthew Epler, Michael Zhong
 * QA: Michael Zhong, Gavin ??  
 
 **Goals and objectives**  
