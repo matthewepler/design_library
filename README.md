@@ -8,9 +8,14 @@ A visual interface for finding documents on Dropbox. Created as an internal tool
 - [ ] Gallery of basic document components
 - [ ] Filter toggle buttons (Redux)
 - [ ] Search 
+- [ ] Authentication (via Google/Gmail)
 - [ ] Recently opened documents (local storage)
 - [ ] Starred documents (local storage)
 - [ ] Event tracking
+
+## Feature List
+- [ ] add/remove/edit tags for a file
+- [ ] add/remove/edit filters
 
 ## Dev Requirements
 **Project Specifics**  
